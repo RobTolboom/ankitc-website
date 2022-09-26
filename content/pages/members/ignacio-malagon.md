@@ -5,7 +5,7 @@ default_group: ankitc
 name: Ignacio Malagon
 picture: people/Ignacio_Malagon.jpeg
 affiliation: Radboudumc, Nijmegen
-type: chair
+type: member
 position: Professor in Pediatric Anesthesiology
 active: yes
 email: 

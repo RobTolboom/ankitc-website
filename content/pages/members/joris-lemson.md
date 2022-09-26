@@ -5,7 +5,7 @@ default_group: ankitc
 name: Joris Lemson
 picture: people/Joris_Lemson.jpeg
 affiliation: Radboudumc, Nijmegen
-type: chair
+type: member
 position: Anesthesiologist and pediatric intensivist
 active: yes
 email: 
