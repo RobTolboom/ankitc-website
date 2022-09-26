@@ -1,4 +1,4 @@
-# AI for Anesthesiology
+# AI for Anesthesiology x
 
 This repository stores all the content and source code for the AI for Anesthesiology websites. From this repository multiple Pelican-powered websites are built, based on a central content database.
 
