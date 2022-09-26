@@ -9,7 +9,7 @@ type: member
 position: Anesthesiology Resident
 active: yes
 email: Rob.Tolboom@radboudumc.nl
-office: Route 710, arts-assistentenkamer
+office: 
 telephone: 
 website: 
 scholar: https://scholar.google.com/citations?user=20c9OHYAAAAJ
