@@ -1,7 +1,7 @@
 title: Rob Tolboom
 template: people-single
-groups: 
-default_group: 
+groups: akitc
+default_group: akitc
 name: Rob Tolboom
 picture: people/Rob_Tolboom.jpeg
 affiliation: Radboudumc, Nijmegen

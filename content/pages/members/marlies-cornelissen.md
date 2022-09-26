@@ -5,7 +5,7 @@ default_group: ankitc
 name: Marlies Cornelissen
 picture: people/Marlies_Cornelissen.jpeg
 affiliation: Radboudumc, Nijmegen
-type: member
+type: board
 position: Pediatric Nephrologist
 active: yes
 email: 
