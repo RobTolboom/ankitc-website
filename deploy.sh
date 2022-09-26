@@ -24,6 +24,9 @@ fi
 # Copy files for github
 cp README.md output/README.md
 
+# Copy image assets
+cp -R assets/images output/images
+
 if [[ -e .nojekyll ]]; then
   cp .nojekyll output/.nojekyll
 fi
