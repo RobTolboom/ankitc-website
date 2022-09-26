@@ -5,7 +5,7 @@ default_group: ankitc
 name: Rob Tolboom
 picture: people/Rob_Tolboom.jpeg
 affiliation: Radboudumc, Nijmegen
-type: faculty
+type: member
 position: Anesthesiology Resident
 active: yes
 email: Rob.Tolboom@radboudumc.nl
