@@ -1,4 +1,4 @@
-title: Projects & Software
+title: (Research) projects
 template: projects
 
 <!---
