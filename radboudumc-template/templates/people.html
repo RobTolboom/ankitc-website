@@ -27,6 +27,19 @@
                         </div>
             {% endif %}
 
+            {% for person in pages if person.type == 'member' and person.active == 'yes' %}
+                {% if not ns.has_members %}
+                    <h1 class="text-muted">Members</h1>
+                    <div class="row people-grid">
+                    {% set ns.has_members = True %}
+                {% endif %}
+
+                {% include "blocks/person-circle.html" %}
+            {% endfor %}
+            {% if ns.has_chair %}
+                        </div>
+            {% endif %}
+
             {% for person in members if person.type == 'faculty' and person.active == 'yes' %}
                 {% if not ns.has_faculty %}
                     <h1 class="text-muted">Faculty</h1>
