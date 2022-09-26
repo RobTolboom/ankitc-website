@@ -10,8 +10,8 @@ from datetime import date
 AUTHOR = "AI for Anesthesiology"
 SITENAME = "AI for Anesthesiology"
 SITENAME_SHORT = "AI4A"
-SITE_REPO = "website-ai4a"
-SITE_GROUP = "ai4a"
+SITE_REPO = "website-ankitc"
+SITE_GROUP = "ankitc"
 
 # Home page and social settings
 SITETITLE = "AI for Anesthesiology"
@@ -26,7 +26,7 @@ HOME_IMAGE_CAPTION = 'AI for Anesthesiology'
 
 TWITTER_URL = None
 FOOTER_TEXT = ""
-TOP_DOMAIN = '<a href="https://anesthesiologie.nl">NVA</a>'
+TOP_DOMAIN = ''
 PARENT_DOMAIN = (
     ''
 )
@@ -58,10 +58,10 @@ HOME_SECTIONS = {
 }
 
 # URLs
-SITEURL = "https://aiforanesthesiology.nl"
+SITEURL = "https://www.ankitc.eu"
 IMGURL = SITEURL
 EDIT_CONTENT_URL = (
-    "https://github.com/AIforAnesthesiology/website-content/edit/master/{file_path}"
+    "https://github.com/RobTolboom/ankitc-website/edit/master/{file_path}"
 )
 
 #

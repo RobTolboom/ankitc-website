@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://aiforanesthesiology.nl'
-IMGURL = 'https://assets.aiforanesthesiology.nl'
+SITEURL = 'https://www.ankitc.eu'
+IMGURL = 'https://assets.ankitc.eu'
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
@@ -23,4 +23,4 @@ AUTHOR_FEED_RSS = None
 
 DELETE_OUTPUT_DIRECTORY = True
 
-GOOGLE_ANALYTICS = 'G-9MWEL3XZR2'
+GOOGLE_ANALYTICS = ''
