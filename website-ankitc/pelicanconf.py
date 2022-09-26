@@ -9,7 +9,7 @@ from datetime import date
 #
 AUTHOR = "ANKiTC"
 SITENAME = "Anaesthesia Network for Kidney Transplantation in Children"
-SITENAME_SHORT = "ankitc"
+SITENAME_SHORT = "ANKiTC"
 SITE_REPO = "website-ankitc"
 SITE_GROUP = "ankitc"
 
