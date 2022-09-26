@@ -5,7 +5,7 @@ type: general
 picture: social/survey.jpeg
 template: project-single
 groups: ankitc
-people: Marieke Voet, Marlies Corneslissen, Joris Lemson, Ignacio Malagon
+people: Marieke Voet, Marlies Cornelissen, Joris Lemson, Ignacio Malagon
 description: The research team at Amalia Children’s Hospital of the Radboud university medical center, Nijmegen, the Netherlands, is conducting a survey among (pediatric) anesthesiologists and/or ICU doctors about their care for pediatric kidney transplant patients in European expertise centers. The results of the survey will serve as a basis for a consensus guideline. 
 bibkeys: 
 
