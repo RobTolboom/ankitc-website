@@ -1,34 +1,17 @@
-title: About AI for Anesthesiology
-
-The AI for Anesthesiology group was founded in early 2021. This page provides a background, our current aims, main research topics, and collaborations.
+title: About the Anaesthesia Network for Kidney Transplantation in Children
 
 ## Background
-These past few years, artificial intelligence (AI) has unknowingly evolved to be a vital part of our current daily life. For instance, it's hard to remember that just a few years ago when you Googled a search term such as 'puppy', Google would just provide a list of websites containing the word. 
+Pediatric kidney transplantations are performed in relative low numbers, even in expertise centers. Despite the high perioperative risk profile of both patient and procedure, international guidelines for anesthesia and ICU care are lacking. Furthermore, local guidelines show inconsistence, particularly in hemodynamic monitoring, -targets and -support ([Voet M, Cornelissen EAM Perioperative anesthesia care for the pediatric patient undergoing a kidney transplantation: An educational review. Paediatric anaesthesia. 2021;31(11):1150-60](https://doi.org/10.1111/pan.14271)). 
 
-Nowadays it analyses the user's history and utilises AI to help you search the information you want. For instance one would only have to start typing 'pu' and Google would use AI to suggest 'puppy' and after hitting the space bar would even suggest 'puppy training', 'puppy buy', etc. A researcher, however, would probably see 'PubMed' as primary suggestion following just those first two letters. 
+## Mission
+This workgroup aims to improve perioperative care in paediatric kidney transplantation.
 
-The medical world prides itself on the many cutting edge medical technologies used to diagnose and treat patients. Unfortunately, the introduction of AI solutions is slow. Only a few studies regarding AI solutions for the anesthesiologic practise have been published these past few years.
+## Roadmap
+* Organize a network for European anaesthesiologists and ICU doctors taking care of paediatric patients during kidney transplantation.
+* Gather knowledge and experience of the network participants by means of the survey “Perioperative anesthesia and ICU practice in pediatric kidney transplantation in European expertise centers; an international survey”.
+* Analyse the data from the survey and publish the results.
+* Use the results as a discussion base for the development of a consensus guideline. Development of a consensus guideline using the Delphi method.
+* Build a database for paediatric kidney transplantations focussing on anaesthesia and ICU related topics like; hemodynamic data and -support, ventilatory data and support, fluid therapy, postoperative outcome measures and complications. Explore possibility to extend the existent databases for paediatric kidney transplantation by ESPN.
 
-Artificial intelligence can be used to support clinical decisions and improve healthcare in numerous ways. It can be used to extract useful information from clinical data, can predict outcomes, or assist in text or image analysis. 
-
-In the Netherlands, several pioneers spearheaded research in novel AI solutions to better our anesthesiologic practise. In order to better coordinate research efforts, this research group was founded.
-
-## Aims
-The AI for Anesthesiology group seeks to stimulate the development and implementation of AI solutions in our anesthesiologic daily practise by:
-
-* Offering an online platform where all research groups can present their projects and list their vacancies.
-* Organising regular meetings where new developments, project proposals, and collaboration can be discussed.
-* Organising a session dedicated to AI on the annual Dutch Anesthesiology days in May.
-* Sending a triannual newsletter containing AI news, recent publications and upcoming meetings/events.
-
-## Main research topics
-The main research fields in anesthesiolgy are in deep learning and supervised machine learning:
-
-* Supervised machine learning can be used to create novel prediction models with better precision compared to regression models. 
-* Deep learning is most often used for image analysis, e.g. ultrasound images.
-
-## Board
-* [member/rob-tolboom], Radboudumc, Nijmegen
-
-## Industry collaborations
-The AI for Anesthesiology group currently has no ongoing/past collaborations with industry partners.
+## Support
+This initiative collaborates with the European Reference Network (ERN), European Society for Paediatric Anaesthesiology (ESPA) and European Society for Paediatric Nephrology.
