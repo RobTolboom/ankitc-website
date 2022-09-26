@@ -1,10 +1,5 @@
-title: AI for Anesthesiology research centers
+title: Affiliated members
 template: people
-
-Use one of the hyperlinks below to directly access the individual research center's website:
-
-* [Radboudumc, Nijmegen](http://radboudumc.aiforanesthesiology.nl)
-* [Elisabeth-TweeSteden Ziekenhuis, Tilburg](http://etz.aiforanesthesiology.nl)
 
 <!---
 
