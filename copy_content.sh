@@ -13,3 +13,6 @@ cp -r --no-clobber content/pages/defaults/. $WEBSITE/content/pages/
 cp content/bibitems.json $WEBSITE/content/bibitems.json
 cp content/authorkeys.json $WEBSITE/content/authorkeys.json
 cp content/groupkeys.json $WEBSITE/content/groupkeys.json
+
+# copy image files
+cp -r --no-clobber images/. $WEBSITE/images/
