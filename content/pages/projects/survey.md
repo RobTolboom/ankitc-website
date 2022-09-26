@@ -2,7 +2,7 @@ title: Survey
 title_long: Kidney transplantation survey
 finished: false
 type: general
-picture: 
+picture: social/survey.jpeg
 template: project-single
 groups: ankitc
 people: Marieke Voet, Marlies Corneslissen, Joris Lemson, Ignacio Malagon
