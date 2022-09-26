@@ -5,7 +5,7 @@ default_group: ankitc
 name: Marieke Voet
 picture: people/Marieke_Voet.jpeg
 affiliation: Radboudumc, Nijmegen
-type: faculty
+type: member
 position: Pediatric Anesthesiologist
 active: yes
 email: M.Voet@radboudumc.nl
