@@ -7,22 +7,21 @@ from datetime import date
 # Site specific variables
 # Please update these to customize the website.
 #
-AUTHOR = "AI for Anesthesiology"
-SITENAME = "AI for Anesthesiology"
-SITENAME_SHORT = "AI4A"
+AUTHOR = "ANKiTC"
+SITENAME = "Anaesthesia Network for Kidney Transplantation in Children"
+SITENAME_SHORT = "ankitc"
 SITE_REPO = "website-ankitc"
 SITE_GROUP = "ankitc"
 
 # Home page and social settings
-SITETITLE = "AI for Anesthesiology"
+SITETITLE = "Anaesthesia Network for Kidney Transplantation in Children"
 SITELEAD = """
-The AI for Anesthesiology research group is a newly founded nationwide research collaboration that primarily focusses on the development and implementation of AI solutions for the anesthesiologists of the future.<br><br>
-We offer a platform for research collaboration, MSc student projects and PhD projects.
+This workgroup aims to improve perioperative care in paediatric kidney transplantation.
 """
 SITE_PICTURE = "images/general/AI4A.jpeg"
 
 HOME_IMAGE = None #"images/general/AI4A.jpeg"
-HOME_IMAGE_CAPTION = 'AI for Anesthesiology'
+HOME_IMAGE_CAPTION = ''
 
 TWITTER_URL = None
 FOOTER_TEXT = ""
