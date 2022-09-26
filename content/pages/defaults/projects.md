@@ -1,4 +1,4 @@
-title: (Research) projects
+title: Projects
 template: projects
 
 <!---
