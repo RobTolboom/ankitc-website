@@ -41,7 +41,7 @@ NAV_SECTIONS = [
     #{"name": "Research", "url": "research", "icon_mobile": "folder"},
     #{"name": "Highlights", "url": "highlights", "icon": "megaphone"},
     #{"name": "Members", "url": "members", "icon": "users"},
-    {"name": "Research", "url": "projects", "icon_mobile": "folder"},
+    {"name": "Projects", "url": "projects", "icon_mobile": "folder"},
     #{"name": "Vacancies", "url": "vacancies", "icon_mobile": "vacancies"},
     {"name": "Publications", "url": "publications", "icon_mobile": "file-text-o"},
     #{"name": "Thesis Gallery", "url": "thesis-gallery", "icon": "book", "hidden": 95},
