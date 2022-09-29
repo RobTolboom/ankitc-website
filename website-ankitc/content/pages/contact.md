@@ -1,6 +1,6 @@
 title: Contact
 
-If you would like to get in touch you can send an e-mail to `james` dot `meakin` at `radboudumc` dot `nl`.
+If you would like to get in touch you can send an e-mail to M.Voet@radboudumc.nl.
 
 ## Visiting Address
 
