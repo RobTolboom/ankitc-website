@@ -4,7 +4,7 @@ If you would like to get in touch you can send an e-mail to M.Voet@radboudumc.nl
 
 ## Visiting Address
 
-Our offices are located at
+Our offices are located at m
 
 Geert Grooteplein 10<br>
 6525 GA Nijmegen<br>
