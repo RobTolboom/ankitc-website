@@ -8,7 +8,7 @@ affiliation: Radboudumc, Nijmegen
 type: board
 position: Anesthesiologist and pediatric intensivist
 active: yes
-email: 
+email: Joris.Lemson@radboudumc.nl
 office: 
 telephone: 
 website: 
