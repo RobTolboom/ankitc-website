@@ -8,7 +8,7 @@ affiliation: Radboudumc, Nijmegen
 type: board
 position: Professor in Pediatric Anesthesiology
 active: yes
-email: 
+email: Ignacio.Malagon@radboudumc.nl
 office: 
 telephone: 
 website: 
