@@ -5,7 +5,7 @@ default_group: ankitc
 name: Chantal Mulkens
 picture: people/Chantal_Mulkens.jpg
 affiliation: Radboudumc, Nijmegen
-type: chair
+type: member
 position: Pediatric Anesthesiologist
 active: yes
 email: Chantal.Mulkens@radboudumc.nl
