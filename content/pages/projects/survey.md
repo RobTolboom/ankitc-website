@@ -1,6 +1,6 @@
 title: Survey
 title_long: Kidney transplantation survey
-finished: false
+finished: true
 type: general
 picture: social/survey.jpeg
 template: project-single
