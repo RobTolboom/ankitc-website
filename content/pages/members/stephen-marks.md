@@ -6,7 +6,7 @@ name: Stephen Marks
 picture: people/Stephen_Marks.jpg
 affiliation: Great Ormond Street Hospital, London
 type: member
-position: Pediatric Nephrologist
+position: Professor of Paediatric Nephrology and Transplantation
 active: yes
 email: Stephen.Marks@gosh.nhs.uk
 office: 
