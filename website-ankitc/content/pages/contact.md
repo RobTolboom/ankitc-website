@@ -1,6 +1,6 @@
 title: Contact
 
-If you would like to get in touch you can send an e-mail to M.Voet@radboudumc.nl.
+If you would like to get in touch you can send an e-mail to Marieke.Voet@radboudumc.nl.
 
 ## Visiting Address
 
